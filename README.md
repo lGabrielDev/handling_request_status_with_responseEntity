@@ -39,7 +39,7 @@ Para isso, vamos criar uma class/entidade/model "Produto" para brincar com esses
 
 Os tópicos que serão abordados serão:
 
-- [Criando nosso projeto Spring](https://github.com/lGabrielDev/handling_request_status_with_responseEntity/blob/main/1.javaWeb/0.introduction.md#-criando-nosso-projeto-spring)
+- [Criando nosso projeto Spring](https://github.com/lGabrielDev/handling_request_status_with_responseEntity/blob/main/1.javaWeb/0.introduction.md#criando-nosso-projeto-spring-)
 - [Configurando o application properties](https://github.com/lGabrielDev/handling_request_status_with_responseEntity/blob/main/1.javaWeb/0.introduction.md#configurando-o-applicationproperties-)
 - [Verificando se a aplicação está funcionando](https://github.com/lGabrielDev/handling_request_status_with_responseEntity/blob/main/1.javaWeb/0.introduction.md#rodando-a-aplica%C3%A7%C3%A3o-)
 - [Criando nosso model](https://github.com/lGabrielDev/handling_request_status_with_responseEntity/blob/main/1.javaWeb/1.models.md)
